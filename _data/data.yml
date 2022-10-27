@@ -102,16 +102,16 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Devops Skills- Organized
+        link: [Project]("https://github.com/tamrakareen/2_Organized_List_DevOps-Skills/blob/25bfe894999a0022a74d438826b43c527ef1c647/README.md")
+        tagline: "A project of continual cloud and devops projects"
 
-      - title: DevStudio
+      - title: Documentation
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An example of project documentation"
 
-      - title: Tempo
-        link: "#"
+      - title: Automatig a Pipline in Jenkins
+        link: [Project]("https://github.com/tamrakareen/2_Organized_List_DevOps-Skills/blob/25bfe894999a0022a74d438826b43c527ef1c647/DevOps/Jenkins/automating%20_delivery_pipline.md")
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom

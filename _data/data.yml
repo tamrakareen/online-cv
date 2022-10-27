@@ -7,27 +7,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Tamra Sherwood
+    tagline: DevOps Engineer
+    avatar: tamra.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: tamrakareen@icloud.com
+    phone: +1 253-666-0056
+    timezone: MDT
+    citizenship: USA
+    website: tamrakareen.github.io #do not add http://
+    linkedin: tamra-sherwood
+    github: tamrakareen
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #put http link here
 
     languages:
       title: Languages
@@ -35,98 +34,67 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Swimming
           link:
 
-        - item: Snowboarding
+        - item: Hiking
           link:
 
-        - item: Cooking
+        - item: Piano
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Bootcamp graduate DevOps Engineer intern with 1+ years of experience, supporting senior devops engineers with their applications and services. Focused on infrastructure as code, containerization, and documentation. Exceptional prior experience in leadership, cross-team collaboration, strategic planning, client relationship building, and problem-solving. Currently working on certifications in CompTIA A+, AWS Solutions ArchitectAssociate, and Kubernetes Administrator exams.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Accelorated Bachelors/Masters in Information Technology and Cloud Computing
+        university: Western Governors University
+        time: 2022-2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          IT program covering Technical Communication, IT Management, Project Management, and Emerging Technologies 
+            - COMPTIA Certifications
+            - Additional Cloud Computing track
+      - degree: College Credits
+        university: University of Utah
+        time: 2003 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Courses covered general education, communication, and interdisciplinary studies
             - Bullet point
             - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: DevOps Intern
+        time: 2022 - Present
+        company: Azenta Life Sciences, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          AWS, Linux, Python, Terraform, Gitlab, VSCode, Git, Microsoft Teams, Windows
+            - Worked on Terraform AWS FSX filesystem project
+            - Website containerization project 
+      - role: AWS Jr Cloud Practitioner Trainee
+        time: 2021 - 2022
+        company: Generation USA, Washington DC 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Trainee program clocking in over 300 hours of Cloud and Devops learning and labs. Resulting in AWS Cloud Practiioner certifications and Linux Admin Foundation course completion
+            - Completed AWS labs in IAM, EC2, S3, Lightsail, CloudFormation, Cloudwatch, Cloudtrail, VPC, Lambda, EKS, EBS
+            - AWS Solutions Architect- Associate exam ready
+            - Course and Lab completion in DevOps Essentials, Jenkins, Python, Ansible, Kubernetes, Docker, Source Control, and Terraform
+      - role: Aquatics and Youth Programs Director
+        time: 2018-2020
+        company: Washington Athletic Club, Seattle WA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Oversaw aquatics and youth programming, 30+ employees, created new programming and events, and promoted department. Handled hiring, training, payroll, and employee retention
+            - Drove up enrollment for all programming and increased private lesson revenue by 100% within first year
+            - Increased staff retention by 75% through career training and creating a positive workplace culture
+            - Awarded 2019 Manager of the Quarter for efforts associated with program development and team management
+
 projects:
     title: Projects
     intro: >
